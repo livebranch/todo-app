@@ -1,0 +1,4 @@
+isOne: ./response.item
+output:
+  result:
+    sendTo: HTTPResponse

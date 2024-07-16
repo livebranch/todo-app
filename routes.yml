@@ -1,0 +1,6 @@
+routes:
+  - name: helloworld
+    path: /
+    method: GET
+    main:
+      - start: ./process
